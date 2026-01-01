@@ -1,8 +1,6 @@
 /* See MDN documentation on @page: https://developer.mozilla.org/en-US/docs/Web/CSS/page */
 /* See weasyprint documentation: https://doc.courtbouillon.org/weasyprint/stable/ */
 
-@import url("shared.css");
-
 @page {
 	size: 5in 8in;
 	@top-center { content: string(heading); font-size: 10pt; margin-top: 3mm; }
