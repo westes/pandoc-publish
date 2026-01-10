@@ -68,26 +68,26 @@ hr, hr:after {
 	height: 1.6rem;
 }
 
-div.toc li > a.page-number::before {
+.toc li > a.page-number::before {
 	/* content: target-text(attr(href)); */
 }
 
-div.toc li > a.page-number::after {
+.toc li > a.page-number::after {
 	content: target-counter(attr(href), page);
 	float: right;
 	color: #06f;
 }
 
-div.toc ol ol {
+.toc ol ol {
 	padding-left: 0.5rem;
 }
 
-div.toc li > a.section-title {
+.toc li > a.section-title {
 	display: inline-block;
 	max-width: 80%;
 }
 
-div.toc li:not(:has(> a)) {
+.toc li:not(:has(> a)) {
 	margin-top: -15.5pt;
 	list-style-type: none;
 }
