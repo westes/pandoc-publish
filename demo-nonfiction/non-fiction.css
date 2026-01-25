@@ -10,7 +10,7 @@
 
 body {
 	font-family: Helvetica, sans-serif;
-	font-size: 12pt;
+	/* font-size: 12pt; */
 }
 
 section:not(.unindented) p, section:not(.unindented) p + p {
@@ -39,6 +39,10 @@ h1.unlisted {
 	font-size: 3rem;
 	font-weight: bold;
 	color: var(--theme-color);
+}
+
+.book-title {
+	margin-top: 10rem;
 }
 
 .book-subtitle {
