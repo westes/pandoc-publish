@@ -6,6 +6,9 @@
 	size: 7.5in 9.5in;
 	@top-center { font-family: Helvetica, sans-serif; font-weight: bold; font-variant-caps: all-small-caps; color: var(--theme-color); font-size: 12pt; }
 	@bottom-center { font-family: Helvetica, sans-serif; font-weight: bold; color: var(--theme-color); font-size: 12pt; }
+	@footnote {
+		border-color: var(--theme-color);
+	}
 }
 
 body {
@@ -155,4 +158,9 @@ figure.example .figure-content {
 
 dl.index {
 	background-color: white;
+}
+
+::footnote-call, ::footnote-marker {
+	font-weight: bold;
+	color: var(--theme-color);
 }

@@ -1,4 +1,5 @@
 ---
+wrap: none
 standalone: true
 toc: false
 strip-comments: false

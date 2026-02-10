@@ -6,4 +6,7 @@ section-divs: true
 pdf-engine: weasyprint
 pdf-engine-opt: '--quiet'
 template: ${.}/html5-template.html
+filters:
+  - ${.}/pdf-footnotes.lua
+reference-location: block
 ...

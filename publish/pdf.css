@@ -5,6 +5,12 @@
 	size: 5in 8in;
 	@top-center { content: string(heading); font-size: 10pt; margin-top: 3mm; }
 	@bottom-center { content: counter(page); font-size: 10pt; margin-bottom: 5mm; }
+	@footnote {
+		float: bottom;
+		border-top: #333 1px solid;
+		margin-top: 5mm;
+		padding-top: 2mm;
+	}
 }
 
 @page :left {
@@ -46,16 +52,13 @@
 	@bottom-center { content: none; }
 }
 
-@page {
-	@footnote {
-		border-top: black 1px solid;
-		margin: 0;
-	}
-}
-
 .footnote {
 	float: footnote;
 	font-size: 0.75rem;
+}
+
+::footnote-call, ::footnote-marker {
+	color: #444;
 }
 
 body {

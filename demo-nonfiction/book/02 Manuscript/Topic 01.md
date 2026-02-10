@@ -18,15 +18,17 @@ Aut iusto iure et voluptas rerum vel rerum dolor quo facere quia ex dolore perfe
 
 Eum accusantium nobis ut laudantium reiciendis vel expedita consequatur. Ut labore culpa id facere voluptas id illum ipsam ut enim omnis non officiis itaque non facilis harum.
 
-Non maiores ullam et illum omnis et autem facere. Est blanditiis veritatis 33 placeat officia est alias minus aut voluptatem tempora. Ut illum soluta ex laborum aliquam et rerum modi eum tempore pariatur aut animi nisi et ullam repellat est quae quisquam.
+Non maiores ullam et illum omnis et autem facere. Est blanditiis veritatis 33 placeat officia est alias minus aut voluptatem tempora. Ut illum soluta ex laborum aliquam et rerum modi eum tempore pariatur{^dividers} aut animi nisi et ullam repellat est quae quisquam.[^1]
 
-{^dividers}
+[^1]: An example footnote.
 
 ---
 
 Id officiis ducimus ut quia molestias qui officia explicabo nam optio ipsam. Non Quis consequatur a dolorem ducimus non galisum asperiores At voluptatem fugiat eum dolores labore. Aut rerum iusto ut perferendis dicta ea eveniet quas aut nihil velit? A corporis enim et nihil repellendus et molestiae totam qui sint repellat eum quisquam voluptas nam maxime minus et atque sunt.
 
-Est eius beatae sit obcaecati beatae 33 omnis cumque qui rerum officia ut quos omnis 33 maxime ipsa! Aut aliquid quidem est numquam cumque ab dolorem quas ad dignissimos deserunt aut dolorum autem? Et quisquam sequi est consequatur omnis et culpa officiis ex repudiandae ipsa.
+Est eius beatae sit obcaecati beatae 33 omnis cumque qui rerum officia ut quos omnis 33 maxime ipsa! Aut aliquid quidem est numquam cumque ab dolorem quas ad dignissimos deserunt aut dolorum autem? Et quisquam sequi est consequatur omnis et culpa officiis ex repudiandae ipsa.[^2]
+
+[^2]: A second footnote.
 
 Sit doloremque itaque qui atque veniam rem beatae dolorem? Aut odit corrupti aut corrupti provident aut optio sunt sed veritatis corporis est soluta consequatur qui sint harum hic quam omnis.
 
