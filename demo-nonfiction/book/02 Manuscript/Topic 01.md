@@ -6,11 +6,11 @@ Qui accusantium nulla cum asperiores accusantium est asperiores reprehenderit ut
 
 Ab vero quod qui quisquam voluptatibus est adipisci molestiae hic officia repellat nam tenetur magni cum ipsa officia. Non quaerat iusto est possimus ipsum ut veritatis nihil qui labore inventore. Ab error ducimus ut sunt nobis ut excepturi eligendi et dolores velit qui laborum accusantium.
 
-{^"FigureMark"}
+{^"figures"}
 
 ```figuremark An example figure {.example #demo :link-caption=none}
-Something is [inserted]{+} here.
-And something is [removed]{-}. [Important!]{/}
+Something was [inserted]{+} here.
+And something was [removed]{-}. [Comment]{/}
 We'll refer to this line in the text. {1}
 ```
 
@@ -18,7 +18,7 @@ Aut iusto iure et voluptas rerum vel rerum dolor quo facere quia ex dolore perfe
 
 Eum accusantium nobis ut laudantium reiciendis vel expedita consequatur. Ut labore culpa id facere voluptas id illum ipsam ut enim omnis non officiis itaque non facilis harum.
 
-Non maiores ullam et illum omnis et autem facere. Est blanditiis veritatis 33 placeat officia est alias minus aut voluptatem tempora. Ut illum soluta ex laborum aliquam et rerum modi eum tempore pariatur{^dividers} aut animi nisi et ullam repellat est quae quisquam.[^1]
+Non maiores ullam et illum omnis et autem facere. Est blanditiis veritatis 33 placeat officia est alias minus aut voluptatem tempora. Ut illum soluta ex laborum aliquam et rerum modi eum tempore pariatur{^footnotes} aut animi nisi et ullam repellat est quae quisquam.[^1]
 
 [^1]: An example footnote.
 
